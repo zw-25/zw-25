@@ -6,9 +6,15 @@
   <a href="https://www.youtube.com/@zdoubleu1">
     <img src="https://img.shields.io/badge/▶_YouTube-zdoubleu1-red?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
+</p>
+
+<p align="center">
+  •
   <a href="https://www.roblox.com/communities/15427902">
-    <img src="https://img.shields.io/badge/Roblox-Group-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Group">
+    <img src="https://raw.githubusercontent.com/zw-25/zw-25/main/InstituteIcon.png" alt="Roblox Group" width="32" height="32" valign="middle">
+    <strong> Roblox Group </strong>
   </a>
+  •
 </p>
 
 ### about
@@ -23,8 +29,8 @@ a broke college mediocre programmer who makes roblox games
   <img src="https://skillicons.dev/icons?i=lua,ae&theme=dark" alt="core skills" />
 </p>
 
-* **languages**: Lua
-* **creative**: Adobe After Effects
+* **Languages**: Lua
+* **Creative**: Adobe After Effects
 
 ---
 
